@@ -21,6 +21,8 @@ export default hopeTheme({
   pageInfo: ["Author", "Original", "Date", "Category", "Tag", "ReadingTime"],
 
   blog: {
+    avatar: '/avatar.jpeg',
+    roundAvatar: true,
     description: "一个前端开发者",
     intro: "/intro.html",
     medias: {
